@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauricioGomes-S
 - 👀 I’m interested in knowledge
 - 🌱 I’m currently learning fronte-end
-- 💞️ I’m looking to collaborate on comuunit and change the world.
+- ✨️ I’m looking to collaborate on comuunit
 
 <!---
 MauricioGomes-S/MauricioGomes-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
